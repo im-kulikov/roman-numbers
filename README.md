@@ -1,6 +1,6 @@
 # Roman numerals implement in golang
 
-Simple implementation of Roman numerals in golang
+Simple implementation of Roman numbers in golang
 
 ## Testing
 
