@@ -1,5 +1,7 @@
 # Roman numbers implement in golang
 
+[![Build Status](https://travis-ci.org/im-kulikov/roman-numbers.svg?branch=master)](https://travis-ci.org/im-kulikov/roman-numbers)
+
 Simple implementation of Roman numbers in golang
 
 ## Testing
