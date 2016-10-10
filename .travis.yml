@@ -1,6 +1,9 @@
 language: go
-go: 
- - 1.7.1
-
-script:
- - go test -v ./...
+go:
+  - 1.6.3
+  - 1.7.1
+  - tip
+env:
+  global:
+    - GOARCH=amd64
+    - GO_FOR_RELEASE=1.7.1
