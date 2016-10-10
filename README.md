@@ -1,4 +1,4 @@
-# Roman numerals implement in golang
+# Roman numbers implement in golang
 
 Simple implementation of Roman numbers in golang
 
