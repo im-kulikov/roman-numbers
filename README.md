@@ -1,4 +1,4 @@
-# roman-numerals-golang
+# Roman numerals implement in golang
 
 Simple implementation of Roman numerals in golang
 
@@ -9,10 +9,12 @@ run `go test`
 ## Using
 
 ```go
-go run main.go 4
+Ditit2Roman(15) // result XV
+Ditit2Roman(19) // result XIX
 ```
 or
 ```go
-go run main.go 555
+Roman2Digit("XIX")  // result 19
+Roman2Digit("XCII") // result 92
 ```
 
